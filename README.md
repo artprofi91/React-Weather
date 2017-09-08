@@ -8,7 +8,7 @@ The best way to learn React is by building React apps.
 ![1](https://user-images.githubusercontent.com/28790452/30228549-ee376ed6-94a3-11e7-887d-8423aab946b8.gif)
 
 <br>
-Simple React weather app that allows you to browse 5-day weather forecast for the city you want. I used OpenWaetherMap API, Google Maps API and beautiful and expressive sparklines component for React.
+Simple React weather app that allows you to browse 5-day weather forecast for the city you want. I used OpenWeatherMap API, Google Maps API and beautiful and expressive sparklines component for React.
 
 ### Project Installation
 There are two methods to download the repository.
